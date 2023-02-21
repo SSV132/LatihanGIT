@@ -1,0 +1,2 @@
+# LatihanGIT
+repository latihan git
